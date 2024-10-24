@@ -18,6 +18,7 @@ SOURCES = $(SRC_DIR)/main.cpp \
          $(SRC_DIR)/item.cpp \
          $(SRC_DIR)/usable_item.cpp \
          $(SRC_DIR)/npc.cpp \
+         $(SRC_DIR)/player.cpp \
          $(SRC_DIR)/puzzle.cpp \
          $(SRC_DIR)/riddle_puzzle.cpp \
          $(SRC_DIR)/reflection_puzzle.cpp \
